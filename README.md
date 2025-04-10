@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/7a3427e9-d150-4e4a-a1e2-c0a1e1cbb51c)
-
 # Whatsapp-Backup-Tool
 ### For questions: ask me on Discord at *<kendrik2.0>*
 --> Tool to view whatsapp backups in a html-site you can open in your browser (only pc for now).
@@ -16,12 +14,13 @@ The goal is also to get as close as possible to the feeling of an actual chat yo
 
 ## Progress:
 The tool is currently still in progress. I hope to be able to release a first version soon.
-For a first sneak-peek of what I'd like the result to look like, see image above.
+For a first sneak-peek of what I'd like the result to look like (don't mind the timestamps please, this is just a demo):
 
+![view1](https://github.com/user-attachments/assets/753bc579-6d9b-45b3-aecf-e665b62ee829)
+
+![view](https://github.com/user-attachments/assets/14d2372c-000f-486d-8e1c-3d04b22a10fe)
 
 ## Goals for this project:
-- I'm working with certain locales currently, I don't know if whatsapp in another language might be formatted differently. -> Find out & add formats if needed.
-- Add (link) images and other media directly into the website, make them clickable and maybe zoom in, like in a whatsapp chat.
+- I'm working with certain locales currently, other app languages use different formats, which I will have to include aswell.
 - Optimize for groups with more than 2 users.
-- Add documents as download-links directly in the website.
 - Optimize for viewing more screen sizes than just laptop. Maybe also for phones
