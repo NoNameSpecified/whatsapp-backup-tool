@@ -13,7 +13,10 @@ The tool will be a simple python script which you run, it will guide you through
 The goal is also to get as close as possible to the feeling of an actual chat you would have opened (on your pc).
 
 ## Progress:
-The tool is currently still in progress. I hope to be able to release a first version soon.
+The tool is currently still in progress. I hope to be able to release a first version soon.  
+### edit: development of this currently (24.05.25) halted due to other projects I'm working on.  
+I would like to continue working on this in the future tho :) If you would interested in a first final version release soon, please contact me.  
+ 
 For a first sneak-peek of what I'd like the result to look like (don't mind the timestamps please, this is just a demo):
 
 ![view1](https://github.com/user-attachments/assets/753bc579-6d9b-45b3-aecf-e665b62ee829)
