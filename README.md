@@ -1,5 +1,5 @@
 # Whatsapp-Backup-Tool
-### For questions: ask me on Discord at *<kendrik2.0>*
+### For questions: ask me on Discord (see contact info on [my github](https://github.com/NoNameSpecified)).
 --> Tool to view whatsapp backups in a html-site you can open in your browser (only pc for now).
 You will be able to export your chat, run the .py and view your content through a whatsapp-like-styled local site.
 
